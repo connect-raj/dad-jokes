@@ -20,12 +20,9 @@ html{
 .container
 {
     background-color: whitesmoke;
-    margin-top: 100px;
     border-radius: 8px;
-    
     width: 50%;
-    max-height: 500px;
-    padding: 40px;
+    padding: 4rem;
     margin: 100px auto;
 }
 h3
@@ -34,9 +31,9 @@ h3
 }
 .joke
 {
-    padding: 10px;
     font-size: 37.5px;
     color: black;
+    text-align: start;
 }
 .btn
 {
